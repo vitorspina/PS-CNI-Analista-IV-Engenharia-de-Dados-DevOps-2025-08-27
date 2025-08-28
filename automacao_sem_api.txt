@@ -1,0 +1,1 @@
+No caso da não existência de uma API da qual possamos extrair os dados diretamente, pode-se utilizar ferramentas já reconhecidas no mercado, como o Selenium em Python, comumente utilizado para a finalidade de realizar QA em aplicações web, ou o Puppeteer para Node.js, que pode ser mais recomendado dependendo do nível de segurança da aplicação em questão.
